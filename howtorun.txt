@@ -1,0 +1,24 @@
+# heroku login
+# heroku create
+# git remote -v
+# git push heroku mMake sure git is installed
+	(Testing purpose)
+		on your command prompt type --> git    it should show you the git usage command
+
+All the below command neeed to be executed from your project folder
+
+	# git init
+	# create a simple file from any of the text editor name it as .gitignore
+	# Whatever the files or folders you don't want to push on you github repo. Add there names inside 	the file
+	# git add .
+	# git commit -m "initial commit"
+
+
+Make sure we have the heroku cli installed
+	(Testing purpose)
+		on your command prompt type --> heroku    it should show you the heroku usage command
+
+# heroku login
+# heroku create
+# git remote -v
+# git push heroku masteraster
