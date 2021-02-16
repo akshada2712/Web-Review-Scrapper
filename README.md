@@ -14,3 +14,5 @@ The flow for scrapper is:
 The project is integrated with Flask Framework and is deployed on heroku platform.
 
 All the reviews are stored MongoDb database.
+
+Link to webapp:https://powerful-fortress-39448.herokuapp.com/
