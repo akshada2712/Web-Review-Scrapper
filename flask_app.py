@@ -9,7 +9,7 @@ import pymongo
 
 app = Flask(__name__)  # initialising the flask app with the name 'app'
 
-
+### testing
 # base url + /
 #http://localhost:8000 + /
 @app.route('/',methods=['POST','GET']) # route with allowed methods as POST and GET
